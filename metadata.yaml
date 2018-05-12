@@ -1,10 +1,16 @@
 _repo: The-Brand-A-Tale-of-the-Flathead-Reservation_47817
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47817-h/images/cover.jpg
 creator:
   author:
     agent_name: Broderick, Therese
     gutenberg_agent_id: '44481'
     url: http://www.gutenberg.org/2009/agents/44481
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47817#The-Brand-A-Tale-of-the-Flathead-Reservation
 gutenberg_issued: '2014-12-30'
 gutenberg_type: Text
 identifiers:
